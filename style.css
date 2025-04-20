@@ -1,0 +1,29 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.enclosure {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 500px;
+}
+
+.big {
+  width: 300px;
+  height: 300px;
+}
+
+.small {
+  width: 100px;
+  height: 100px;
+}
